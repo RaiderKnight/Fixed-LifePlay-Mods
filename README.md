@@ -2,6 +2,8 @@
 <br>
 <p>A simple adult memory game that I made for fun!</p>
 <br>
+<p>RKLauncher requires Windows 7 or higher and .NET 4.0 Framework.</p>
+<br>
 <hr>
 <br>
 <h2>How it work?</h2>
@@ -12,8 +14,7 @@
 <hr>
 <br>
 <h2>How to install and play?</h2>
-<p>RKLauncher requires Windows 7 or higher and .NET 4.0 Framework.</p>
-<p>Download the zip file here : https://github.com/RaiderKnight/PMemoryGame/PussyMemoryGame.zip</p>
+<p>Download the zip file here : https://github.com/RaiderKnight/PMemoryGame/raw/main/PussyMemoryGame.zip</p>
 <p>Then unzip PussyMemoryGame.zip anywhere on your PC.</p>
 <p>PussyMemoryGame.zip should contain a folder called "Pussy Memory Game" containing the images and the application (exe).</p>
 <br>
