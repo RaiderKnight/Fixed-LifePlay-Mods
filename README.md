@@ -2,6 +2,8 @@
 <br>
 <p>A simple adult memory game that I made for fun!</p>
 <br>
+<img src="https://github.com/RaiderKnight/PMemoryGame/blob/main/PMG_screenshot700.jpg" alt"screenshot" widht="500px" height="353px">
+<br>
 <p>RKLauncher requires Windows 7 or higher and .NET 4.0 Framework.</p>
 <br>
 <hr>
