@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/RaiderKnight/PMemoryGame/blob/main/PMG_screenshot700.jpg" alt"screenshot" widht="500px" height="353px">
 <br>
-<p>RKLauncher requires Windows 7 or higher and .NET 4.0 Framework.</p>
+<p>PussyMemoryGame requires Windows 7 or higher and .NET 4.7.2 Framework.</p>
 <br>
 <hr>
 <br>
@@ -12,6 +12,9 @@
 <p>Find the most pairs of matching pussies.</p>
 <p>You have 45 seconds to find the right pussies.</p>
 <p>You can pause the game or just play without the counter.</p>
+<br>
+<h3>Possibility!</h3>
+<p>If you don't like the photos, you can change them to whatever you want, but you will have to change the names of your photos by a number from 1 to 6. The game only accepts 6 different photos.</p>
 <br>
 <hr>
 <br>
